@@ -1,7 +1,6 @@
 
 public class VariableScope {
 
-	String a = ""; 
 	
 	// 변수의 유효범위 Scope (block Scope)
 	
@@ -17,10 +16,8 @@ public class VariableScope {
 
 			}
 			
-			char c = 'A';
-			char b = 'B';
-			System.out.println(c + b);
-		//	System.out.println(num2);
+	
+		//System.out.println(num2);
 
 			
 	}
